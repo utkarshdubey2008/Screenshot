@@ -33,7 +33,7 @@ DEV = "https://t.me/Alpha_x_devs"
 
 spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
-JPG = "LOCAL/video_convertor.jpg"
+JPG = "LOCAL/IMG_20230504_131156_894.jpg"
 
 JPG0 = 'https://graph.org/file/b241f6c5f00de7513cf42.jpg'
 
